@@ -1,4 +1,4 @@
-Project 5: Cloud SQL
+Project 5
 Goal: Use a cloud SQL solution such GCP Big Query, or AWS Athena to Query a Public Dataset and find a useful insight.
 
 I found a dataset from Airbnb with information about listings in Denver, Colorado.  I started by cleaning the data and ensured there weren't any duplicate rows by aggregating the number of reviews for each listing.
